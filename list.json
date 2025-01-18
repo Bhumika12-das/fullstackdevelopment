@@ -1,0 +1,150 @@
+[
+    {
+    "Id": 1,
+    "name":"story Book",
+    "title":"lorem, ipsum dolor sit amet consectetur adipiscing elit.",
+    "price":0,
+    "Category":"free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1736713825~exp=1736717425~hmac=5d48141739b48e2c16917dae655201eb62989f32361affaaf52cca29ac509c9d&w=740"  
+
+},
+  {
+        "Id": 2,
+        "name":"Comedy Book",
+        "title":"lorem, ipsum dolor sit amet consectetur adipiscing elit.",
+        "price":20,
+        "Category":"Entertainment",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1736713825~exp=1736717425~hmac=5d48141739b48e2c16917dae655201eb62989f32361affaaf52cca29ac509c9d&w=740"
+        
+    },
+
+   {
+            "Id": 3,
+            "name":"sports Book",
+            "title":"lorem, ipsum dolor sit amet consectetur adipiscing elit.",
+            "price":30,
+            "Category":"Sports",
+            "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1736713825~exp=1736717425~hmac=5d48141739b48e2c16917dae655201eb62989f32361affaaf52cca29ac509c9d&w=740"
+            
+        },
+
+            {
+                "Id": 4,
+                "name":"music Book",
+                "title":"lorem, ipsum dolor sit amet consectetur adipiscing elit.",
+                "price":50,
+                "Category":"song",
+                "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1736713825~exp=1736717425~hmac=5d48141739b48e2c16917dae655201eb62989f32361affaaf52cca29ac509c9d&w=740"
+                
+                },
+
+                {
+                    "Id": 5,
+                    "name":"HorrorBook",
+                    "title":"lorem, ipsum dolor sit amet consectetur adipiscing elit.",
+                    "price":40,
+                    "Category":"fear",
+                    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1736713825~exp=1736717425~hmac=5d48141739b48e2c16917dae655201eb62989f32361affaaf52cca29ac509c9d&w=740"
+                    
+                    },
+
+                    {
+                        "Id": 6,
+                        "name":"Holy Book",
+                        "title":"lorem, ipsum dolor sit amet consectetur adipiscing elit.",
+                        "price":100,
+                        "Category":"Mythology",
+                        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1736713825~exp=1736717425~hmac=5d48141739b48e2c16917dae655201eb62989f32361affaaf52cca29ac509c9d&w=740"
+                        
+                        },
+
+                        {
+                            "Id": 7,
+                            "name":"Food Book",
+                            "title":"lorem, ipsum dolor sit amet consectetur adipiscing elit.",
+                            "price":60,
+                            "Category":"food",
+                            "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1736713825~exp=1736717425~hmac=5d48141739b48e2c16917dae655201eb62989f32361affaaf52cca29ac509c9d&w=740"
+                            
+                            },
+
+                            {
+                                "Id": 8,
+                                "name":"adventure Book",
+                                "title":"lorem, ipsum dolor sit amet consectetur adipiscing elit.",
+                                "price":70,
+                                "Category":"Adventure",
+                                "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1736713825~exp=1736717425~hmac=5d48141739b48e2c16917dae655201eb62989f32361affaaf52cca29ac509c9d&w=740"
+                                
+                                },
+
+                                {
+                                    "Id": 9,
+                                    "name":"diet Book",
+                                    "title":"lorem, ipsum dolor sit amet consectetur adipiscing elit.",
+                                    "price":60,
+                                    "Category":"health",
+                                    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1736713825~exp=1736717425~hmac=5d48141739b48e2c16917dae655201eb62989f32361affaaf52cca29ac509c9d&w=740"
+                                    
+                                    },
+
+                                    {
+                                        "Id": 10,
+                                        "name":"Business Book",
+                                        "title":"lorem, ipsum dolor sit amet consectetur adipiscing elit.",
+                                        "price":10,
+                                        "Category":"finance",
+                                        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1736713825~exp=1736717425~hmac=5d48141739b48e2c16917dae655201eb62989f32361affaaf52cca29ac509c9d&w=740"
+                                        
+                                        },
+
+                                        {
+                                            "Id": 11,
+                                            "name":"Political Book",
+                                            "title":"lorem, ipsum dolor sit amet consectetur adipiscing elit.",
+                                            "price":50,
+                                            "Category":"politics",
+                                            "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1736713825~exp=1736717425~hmac=5d48141739b48e2c16917dae655201eb62989f32361affaaf52cca29ac509c9d&w=740"
+                                            
+                                            }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
